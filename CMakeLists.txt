@@ -14,4 +14,5 @@ add_executable (W1Ex3 "Week1/example3.c")
 # Target 2 from subfolder
 add_executable (W2Ex1 "Week2/example1.c")
 add_executable (W2Ex2 "Week2/example2.c")
+add_executable (W2Ex4 "Week2/example4.c")
 
